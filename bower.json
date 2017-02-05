@@ -1,0 +1,27 @@
+{
+  "name": "spacers",
+  "version":"0.0.1",
+  "homepage": "https://github.com/cssberries/spacers",
+  "authors": [
+    "Yevgeniy Belov"
+  ],
+  "description": "",
+  "main": "main.less",
+  "keywords": [
+    "css",
+    "itcss",
+    "oocss",
+    "bem"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "cssberries-modulars": "latest"
+  }
+}

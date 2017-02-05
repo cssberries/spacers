@@ -1,0 +1,14 @@
+{
+  "name": "cssberries-modulars",
+  "homepage": "https://github.com/cssberries/modulars",
+  "version": "0.0.1",
+  "_release": "0.0.1",
+  "_resolution": {
+    "type": "version",
+    "tag": "v0.0.1",
+    "commit": "e2a1f29765439d9471c1df0e4f8471cd889839c5"
+  },
+  "_source": "https://github.com/cssberries/modulars.git",
+  "_target": "*",
+  "_originalSource": "cssberries-modulars"
+}
